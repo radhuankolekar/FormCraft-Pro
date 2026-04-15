@@ -167,6 +167,11 @@ npm run build
 npm run preview
 ```
 
-Output is in the `dist/` folder — deploy to Vercel, Netlify, or any static host.
 
----
+Authors
+Chetana Gajanan Deshbhandari-4VP22CS016
+Neha Vasant Naik-4VP22CS054
+Nishchita A-4VP22CS059
+Radhika Kishor Ankolekar-4VP22CS076
+Vaishnavi S Savant-4VP22CS114
+Yamini U L-4VP22CS125
